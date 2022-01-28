@@ -9,7 +9,7 @@ Mini-cart App
 To Run in local 
  
  - install yarn 
- - go to MinCart `cd MiniCart`
+ - go to MiniCart `cd MiniCart`
  - run `yarn` to install dev dependencies 
  - run `yarn start` to build 
 
